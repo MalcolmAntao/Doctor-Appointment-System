@@ -22,4 +22,4 @@ A Canteen Management System is designed to streamline a canteen's operations in 
 
 
 ## Screenshots
-![alt text](https://github.com/zhcet19/Nadeem-Tarin-Hall-Canteen-Management-System/blob/master/image%20folder/project1.png)
+![alt text](https://github.com/MalcolmAntao/Healthcare-Appointment-System/blob/main/Screenshots/Landing_Page1.png)
