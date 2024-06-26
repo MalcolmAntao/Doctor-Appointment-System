@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../Users/Malcolm Antao/Documents/OOSE Project"
+		},
+		{
+			"path": "../../appointment"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Login"
+	}
+}

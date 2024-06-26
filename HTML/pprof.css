@@ -1,0 +1,332 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+.profile-container {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background-color: #228eda;
+}
+
+.profile-bar {
+  padding: 10px;
+  height: 100%;
+  background-color: #228eda;
+  width: 10%;
+}
+.profile-info {
+  flex: 2;
+  padding: 50px;
+  background-color: #ffffff;
+  border-left: 5px solid #007bff;
+}
+.profile-info > * {
+  font-family: "DM Sans", sans-serif;
+}
+.profile-info label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.profile-info input[type="text"],
+.profile-info input[type="email"],
+.profile-info input[type="tel"] {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+.SE-Button {
+  display: flex;
+  width: 30%;
+  gap: 10px;
+}
+
+.SE-Button > * {
+  font-size: larger;
+  font-weight: 700;
+  padding: 10px;
+}
+.Col2-Button {
+  display: flex;
+  width: 90%;
+  gap: 10px;
+}
+
+.Col2-Button > * {
+  font-size: small;
+  font-family: "DM Sans", sans-serif;
+  padding: 10px;
+}
+
+.Col2-Button-Main {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+  gap: 10px;
+}
+
+.Col2-Button-Main > * {
+  font-family: "DM Sans", sans-serif;
+  padding: 10px;
+}
+
+.height-container {
+  flex: 1;
+}
+
+.height-container label {
+  display: block;
+}
+
+.profile-info input[type="submit"] {
+  background-color: #007bff;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  flex: 1;
+}
+
+.profile-info input[type="submit"]:hover {
+  background-color: #0069d9;
+}
+
+.profile-info input[type="button"] {
+  background-color: #007bff;
+  color: #f6f6f7;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  flex: 1;
+}
+
+.profile-info input[type="button"]:hover {
+  background-color: #0069d9;
+}
+
+/* Styles for the circular frame */
+.prfile-picture-container {
+  width: 20vh;
+  height: 20vh;
+  overflow: hidden;
+  border-radius: 50%; /* Makes it circular */
+}
+
+/* Styles for the profile picture */
+#prfile-picture {
+  width: 100%;
+  height: auto;
+  border: none;
+  display: block;
+  position: relative;
+  bottom: 30px;
+}
+
+.center-prfile {
+  display: flex;
+  justify-content: center;
+}
+
+.app-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  height: calc(100% - 64px);
+  background-color: var(--app-container);
+  transition: 0.2s;
+  max-width: auto;
+}
+.app-container button,
+.app-container input,
+.app-container optgroup,
+.app-container select,
+.app-container textarea,
+.app-name {
+  font-family: "DM Sans", sans-serif;
+}
+.app-content {
+  display: flex;
+  height: 100%;
+  overflow: hidden;
+  padding: 16px 24px 24px 0;
+}
+.app-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 16px 24px;
+  position: relative;
+}
+.app-header-left,
+.app-header-right {
+  display: flex;
+  align-items: center;
+}
+.app-header-left {
+  flex-grow: 1;
+}
+.app-header-right button {
+  margin-left: 10px;
+}
+
+.app-icon {
+  width: 26px;
+  height: 2px;
+  border-radius: 4px;
+  background-color: var(--main-color);
+  position: relative;
+}
+.app-icon:before,
+.app-icon:after {
+  content: "";
+  position: absolute;
+  width: 12px;
+  height: 2px;
+  border-radius: 4px;
+  background-color: var(--main-color);
+  left: 50%;
+  transform: translatex(-50%);
+}
+.app-icon:before {
+  top: -6px;
+}
+.app-icon:after {
+  bottom: -6px;
+}
+.app-name {
+  color: var(--main-color);
+  margin: 0;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 700;
+}
+
+.mode-switch {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  color: var(--main-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-left: 2px solid #ddd;
+  padding-left: 3px;
+}
+
+/*------logout button------*/
+.profile-btn {
+  padding: 0;
+  border: 0;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  padding-left: 12px;
+  border-left: 2px solid #ddd;
+}
+.dropdown-content {
+  color: black;
+  padding: 12px 12px;
+  text-decoration: none;
+  display: inline-block;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 120px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  z-index: 5;
+  top: 35px;
+  right: 0;
+}
+.dropdown-content:hover {
+  color: #f9f9f9;
+  background-color: #ffffff;
+}
+a {
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  color: #0c0073;
+  text-decoration: none;
+}
+/* Style the container for the dropdown content */
+.dropdown-content {
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  padding: 8px 0;
+  z-index: 5;
+  display: none; /* Initially hide the dropdown content */
+}
+
+/* Style each individual link within the dropdown */
+.dropdown-content a {
+  color: #333;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of links on hover */
+.dropdown-content a:hover {
+  background-color: #f1f1f1;
+}
+
+/* Style the container for the dropdown box */
+.dropdown-box {
+  display: flex;
+  flex-direction: column;
+}
+a:hover {
+  text-decoration: underline;
+  color: #24bfe9;
+}
+.profile-btn:hover .dropdown-content {
+  display: block;
+}
+.profile-btn img {
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 4px;
+}
+.profile-btn span {
+  color: var(--main-color);
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+}
+/*------logout button end------*/
+.game-btn {
+  padding: 0;
+  border: 0;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-left: 2px solid #ddd;
+  color: black;
+  text-decoration: none;
+}
+
+.height-fields {
+  display: flex;
+  align-items: center;
+}
+
+.height-fields input {
+  margin-left: 10px;
+}
