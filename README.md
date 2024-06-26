@@ -1,4 +1,4 @@
-# Canteen-Management-System-Using-PHP-(EZ-Canteen)
+# Doctor Appointment System
 A Canteen Management System is designed to streamline a canteen's operations in an organization or institution. This system allows users to efficiently manage inventory, track sales, process orders, and generate reports, thereby improving overall efficiency and customer satisfaction.
 
 ## Table of Contents
@@ -22,3 +22,4 @@ A Canteen Management System is designed to streamline a canteen's operations in 
 
 
 ## Screenshots
+![alt text](https://github.com/zhcet19/Nadeem-Tarin-Hall-Canteen-Management-System/blob/master/image%20folder/project1.png)
