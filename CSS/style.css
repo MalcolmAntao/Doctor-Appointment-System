@@ -1,0 +1,155 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:300);
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  background-image: url("../Assets/Img/Login_BG.jpg");
+  background-size: cover;
+  overflow-y: hidden !important;
+  font-family: "Poppins", sans-serif;
+}
+a {
+  text-decoration: none;
+  color: #ffffff;
+  transition: 0.5s ease;
+}
+a:hover {
+  color: #0b6db5;
+}
+a {
+  text-decoration: none;
+  color: #ffffff;
+  transition: 0.5s ease;
+}
+a:hover {
+  color: #043f6a;
+}
+.form {
+  background-color: rgba(49, 153, 227, 0.495);
+  padding: 40px;
+  max-width: 600px;
+  margin: 40px auto;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px 4px rgba(23, 26, 40, 0.137);
+}
+
+.tab-group {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 40px 0;
+}
+.tab-group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.tab-group li a {
+  display: block;
+  text-decoration: none;
+  padding: 15px;
+  background: rgba(60, 154, 208, 0.5);
+  color: #000000;
+  font-size: 20px;
+  float: left;
+  width: 48%;
+  text-align: center;
+  cursor: pointer;
+  transition: 0.5s ease;
+}
+.tab-group li a:hover {
+  background: #228eda;
+  color: #ffffff;
+}
+.tab-group .active a {
+  background: #0b6db5;
+  color: #ffffff;
+}
+
+.tab-content > div:last-child {
+  display: none;
+}
+.tab-group {
+  border-radius: 15px !important;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+  font-weight: 300;
+  margin: 0 0 40px;
+}
+input,
+textarea {
+  font-size: 17px;
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: 5px 10px;
+  background: none;
+  background-image: none;
+  border: 1px solid #195f91;
+  color: #fff;
+  border-radius: 6px;
+  transition: border-color 0.25s ease, box-shadow 0.25s ease;
+}
+
+textarea {
+  border: 2px solid #01939c;
+  resize: vertical;
+}
+.field-wrap {
+  position: relative;
+  margin-bottom: 40px;
+}
+.top-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.top-row > div {
+  float: left;
+  width: 48%;
+  margin-right: 4%;
+}
+.top-row > div:last-child {
+  margin: 0;
+}
+.button {
+  border: 0;
+  outline: none;
+  border-radius: 15px;
+  padding: 15px 0;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  background: #0b6db5;
+  cursor: pointer;
+  color: #fff;
+  transition: all 0.5s ease;
+  /*-webkit-appearance: none;*/
+}
+.button:hover,
+.button:focus {
+  background: #228eda;
+  color: #000000;
+}
+.button-block {
+  display: block;
+  width: 100%;
+}
+.forgot {
+  margin-top: -20px;
+  text-align: right;
+}
+
+.field-wrap input::placeholder {
+  color: rgba(0, 0, 0, 0.467);
+}
+
+.field-wrap textarea::placeholder {
+  color: rgba(0, 0, 0, 0.511);
+}
