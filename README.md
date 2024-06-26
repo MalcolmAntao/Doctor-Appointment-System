@@ -24,4 +24,33 @@ A Canteen Management System is designed to streamline a canteen's operations in 
 ## Screenshots
 <h2>Landing Page</h2>
 <img src="https://github.com/MalcolmAntao/Healthcare-Appointment-System/blob/main/Screenshots/Landing_Page1.png" alt="Landing Page Screenshot">
+<img src="https://github.com/MalcolmAntao/Healthcare-Appointment-System/blob/main/Screenshots/Landing_Page2.png" alt="Landing Page Screenshot">
+<img src="https://github.com/MalcolmAntao/Healthcare-Appointment-System/blob/main/Screenshots/Landing_Page3.png" alt="Landing Page Screenshot">
+
+<h2>Sign-In Page</h2>
+<img src="https://github.com/MalcolmAntao/Healthcare-Appointment-System/blob/main/Screenshots/Signup.png" alt="Sign-In Page Screenshot">
+
+<h2>Login Page</h2>
+<img src="https://github.com/MalcolmAntao/Healthcare-Appointment-System/blob/main/Screenshots/login.png" alt="Login Page Screenshot">
+
+<h2>Doctor Login Page</h2>
+<img src="https://github.com/MalcolmAntao/Healthcare-Appointment-System/blob/main/Screenshots/doctor_login.png" alt="Doctor Login Page Screenshot">
+
+<h2>Doctor Dashboard Page</h2>
+<img src="https://github.com/MalcolmAntao/Healthcare-Appointment-System/blob/main/Screenshots/doctor_dashboard.png" alt="Doctor Dashboard Page Screenshot">
+
+<h2>Doctor Profile Page</h2>
+<img src="https://github.com/MalcolmAntao/Healthcare-Appointment-System/blob/main/Screenshots/doctor_profile.png" alt="Doctor Profile Page Screenshot">
+
+<h2>Doctor Schedule Page</h2>
+<img src="https://github.com/MalcolmAntao/Healthcare-Appointment-System/blob/main/Screenshots/doctor_schedule1.png" alt="Doctor Schedule Page Screenshot">
+<img src="https://github.com/MalcolmAntao/Healthcare-Appointment-System/blob/main/Screenshots/doctor_schedule2.png" alt="Doctor Schedule Page Screenshot">
+
+<h2>Patient Dashboard Page</h2>
+<img src="https://github.com/MalcolmAntao/Healthcare-Appointment-System/blob/main/Screenshots/PatientDashboard1.png" alt="Patient Dashboard Page Screenshot">
+<img src="https://github.com/MalcolmAntao/Healthcare-Appointment-System/blob/main/Screenshots/PatientDashboard2.png" alt="Patient Dashboard Page Screenshot">
+
+<h2>Patient Profile Page</h2>
+<img src="https://github.com/MalcolmAntao/Healthcare-Appointment-System/blob/main/Screenshots/patient_profile1.png" alt="Patient Profile Page Screenshot">
+<img src="https://github.com/MalcolmAntao/Healthcare-Appointment-System/blob/main/Screenshots/patient_profile2.png" alt="Patient Profile Page Screenshot">
 
