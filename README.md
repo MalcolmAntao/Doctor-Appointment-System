@@ -1,5 +1,5 @@
 # Doctor Appointment System
-A Canteen Management System is designed to streamline a canteen's operations in an organization or institution. This system allows users to efficiently manage inventory, track sales, process orders, and generate reports, thereby improving overall efficiency and customer satisfaction.
+The Doctor Appointment Booking System revolutionizes healthcare by enabling patients to conveniently schedule appointments online based on their doctor’s availability. Patients can easily select preferred time slots and receive automated reminders. For doctors, this system offers real-time schedule management thus improving clinic efficiency. Overall, this Doctor Appointment Booking System enhances patient-doctor interaction, optimizes clinic workflows and boosts healthcare accessibility and satisfaction.
 
 ## Table of Contents
 
@@ -53,4 +53,3 @@ A Canteen Management System is designed to streamline a canteen's operations in 
 <h2>Patient Profile Page</h2>
 <img src="https://github.com/MalcolmAntao/Healthcare-Appointment-System/blob/main/Screenshots/patient_profile1.png" alt="Patient Profile Page Screenshot">
 <img src="https://github.com/MalcolmAntao/Healthcare-Appointment-System/blob/main/Screenshots/patient_profile2.png" alt="Patient Profile Page Screenshot">
-
