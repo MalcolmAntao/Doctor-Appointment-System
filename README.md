@@ -19,3 +19,6 @@ A Canteen Management System is designed to streamline a canteen's operations in 
 4 : Open xampp and start apache server and mysql from the desktop icon and open google chrome and type the following url without quotes: "http://localhost/phpmyadmin/" and enter root as username and press Go.
 
 5 : Now first you have to Load the database in your local server by coping the sql from database.sql into the phpmyadmin, sql section and click on go and then you can run the project.
+
+
+## Screenshots
