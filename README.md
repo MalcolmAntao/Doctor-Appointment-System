@@ -6,7 +6,7 @@ The Doctor Appointment Booking System revolutionizes healthcare by enabling pati
 - [Installation](#installation)
 - [Screenshots](#screenshots)
 - [Status](#status)
-- [Contributing](#contributing)
+- [Contribution](#contribution)
 
 
 ## Installation
@@ -57,5 +57,6 @@ The Doctor Appointment Booking System revolutionizes healthcare by enabling pati
 ## Status
 <h4>90% Complete</h4>
 
-## Contributing
-
+## Contribution
+<p>Thanks to <a href="https://github.com/AnushkaDaSilva">@AnushkaDaSilva</a> for their contributions to this project.</p>
+<p>Thanks to <a href="https://github.com/nathaniabaptista">@nathanibaptista</a> for their contributions to this project.</p>
