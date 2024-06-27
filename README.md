@@ -22,7 +22,7 @@ The Doctor Appointment Booking System revolutionizes healthcare by enabling pati
 
 
 ## Screenshots
-<h2>Landing Page</h2>
+<h3>Landing Page</h3>
 <img src="https://github.com/MalcolmAntao/Healthcare-Appointment-System/blob/main/Screenshots/Landing_Page1.png" alt="Landing Page Screenshot">
 <img src="https://github.com/MalcolmAntao/Healthcare-Appointment-System/blob/main/Screenshots/Landing_Page2.png" alt="Landing Page Screenshot">
 <img src="https://github.com/MalcolmAntao/Healthcare-Appointment-System/blob/main/Screenshots/Landing_Page3.png" alt="Landing Page Screenshot">
