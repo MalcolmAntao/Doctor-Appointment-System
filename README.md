@@ -55,7 +55,7 @@ The Doctor Appointment Booking System revolutionizes healthcare by enabling pati
 <img src="https://github.com/MalcolmAntao/Healthcare-Appointment-System/blob/main/Screenshots/patient_profile2.png" alt="Patient Profile Page Screenshot">
 
 ## Status
-<h3>90% Complete</h3>
+<h4>90% Complete</h4>
 
 ## Contributing
 
